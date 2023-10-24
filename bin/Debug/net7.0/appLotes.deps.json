@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "appLotes/1.0.0": {
+        "dependencies": {
+          "AsciiChart.Sharp": "1.0.3",
+          "CsvHelper": "30.0.1"
+        },
+        "runtime": {
+          "appLotes.dll": {}
+        }
+      },
+      "AsciiChart.Sharp/1.0.3": {
+        "runtime": {
+          "lib/netstandard1.0/AsciiChart.Sharp.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CsvHelper/30.0.1": {
+        "runtime": {
+          "lib/net6.0/CsvHelper.dll": {
+            "assemblyVersion": "30.0.0.0",
+            "fileVersion": "30.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "appLotes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsciiChart.Sharp/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvQO6ARvgbt8Dk9ifZOjf0NSgQautR4fw0AehIDCzEgaHM66Z55xcNF3zMPmBzymgC3jipvoj4WvfXqwxZiEgQ==",
+      "path": "asciichart.sharp/1.0.3",
+      "hashPath": "asciichart.sharp.1.0.3.nupkg.sha512"
+    },
+    "CsvHelper/30.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rcZtgbWR+As4G3Vpgx0AMNmShGuQLFjkHAPIIflzrfkJCx8/AOd4m96ZRmiU1Wi39qS5UVjV0P8qdgqOo5Cwyg==",
+      "path": "csvhelper/30.0.1",
+      "hashPath": "csvhelper.30.0.1.nupkg.sha512"
+    }
+  }
+}

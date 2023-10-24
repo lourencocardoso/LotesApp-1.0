@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Aslsmoel8spsjA3K6uH/S9+oQwmpTow/eLzbzfm7Cj8/kDAfuTxlV0l/vA4NihWbYxY1mnnGwewSpEAjtWKBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rui\\Desktop\\appLotes 1.0\\appLotes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rui\\.nuget\\packages\\asciichart.sharp\\1.0.3\\asciichart.sharp.1.0.3.nupkg.sha512",
+    "C:\\Users\\Rui\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

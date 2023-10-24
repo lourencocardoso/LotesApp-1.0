@@ -1,0 +1,32 @@
+C:\Users\Rui\Desktop\appLotes\obj\Debug\net7.0\appLotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rui\Desktop\appLotes\obj\Debug\net7.0\appLotes.AssemblyInfoInputs.cache
+C:\Users\Rui\Desktop\appLotes\obj\Debug\net7.0\appLotes.AssemblyInfo.cs
+C:\Users\Rui\Desktop\appLotes\obj\Debug\net7.0\appLotes.csproj.CoreCompileInputs.cache
+C:\Users\Rui\Desktop\appLotes\bin\Debug\net7.0\appLotes.exe
+C:\Users\Rui\Desktop\appLotes\bin\Debug\net7.0\appLotes.deps.json
+C:\Users\Rui\Desktop\appLotes\bin\Debug\net7.0\appLotes.runtimeconfig.json
+C:\Users\Rui\Desktop\appLotes\bin\Debug\net7.0\appLotes.dll
+C:\Users\Rui\Desktop\appLotes\bin\Debug\net7.0\appLotes.pdb
+C:\Users\Rui\Desktop\appLotes\obj\Debug\net7.0\appLotes.dll
+C:\Users\Rui\Desktop\appLotes\obj\Debug\net7.0\refint\appLotes.dll
+C:\Users\Rui\Desktop\appLotes\obj\Debug\net7.0\appLotes.pdb
+C:\Users\Rui\Desktop\appLotes\obj\Debug\net7.0\appLotes.genruntimeconfig.cache
+C:\Users\Rui\Desktop\appLotes\obj\Debug\net7.0\ref\appLotes.dll
+C:\Users\Rui\Desktop\appLotes 1.0\bin\Debug\net7.0\appLotes.exe
+C:\Users\Rui\Desktop\appLotes 1.0\bin\Debug\net7.0\appLotes.deps.json
+C:\Users\Rui\Desktop\appLotes 1.0\bin\Debug\net7.0\appLotes.runtimeconfig.json
+C:\Users\Rui\Desktop\appLotes 1.0\bin\Debug\net7.0\appLotes.dll
+C:\Users\Rui\Desktop\appLotes 1.0\bin\Debug\net7.0\appLotes.pdb
+C:\Users\Rui\Desktop\appLotes 1.0\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\Rui\Desktop\appLotes 1.0\obj\Debug\net7.0\appLotes.csproj.AssemblyReference.cache
+C:\Users\Rui\Desktop\appLotes 1.0\obj\Debug\net7.0\appLotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rui\Desktop\appLotes 1.0\obj\Debug\net7.0\appLotes.AssemblyInfoInputs.cache
+C:\Users\Rui\Desktop\appLotes 1.0\obj\Debug\net7.0\appLotes.AssemblyInfo.cs
+C:\Users\Rui\Desktop\appLotes 1.0\obj\Debug\net7.0\appLotes.csproj.CoreCompileInputs.cache
+C:\Users\Rui\Desktop\appLotes 1.0\obj\Debug\net7.0\appLotes.csproj.CopyComplete
+C:\Users\Rui\Desktop\appLotes 1.0\obj\Debug\net7.0\appLotes.dll
+C:\Users\Rui\Desktop\appLotes 1.0\obj\Debug\net7.0\refint\appLotes.dll
+C:\Users\Rui\Desktop\appLotes 1.0\obj\Debug\net7.0\appLotes.pdb
+C:\Users\Rui\Desktop\appLotes 1.0\obj\Debug\net7.0\appLotes.genruntimeconfig.cache
+C:\Users\Rui\Desktop\appLotes 1.0\obj\Debug\net7.0\ref\appLotes.dll
+C:\Users\Rui\Desktop\appLotes 1.0\bin\Debug\net7.0\AsciiChart.Sharp.dll
